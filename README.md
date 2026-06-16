@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jamie 👋
 
-<!--
-**jamiecooper4-netizen/jamiecooper4-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a GTM & Strategy professional with 10+ years building brands and go-to-market engines across global companies. Currently at Arm, focused on strategy and growth. Outside of work, I build tools that make knowledge workers faster.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[interview-copilot](https://github.com/jamiecooper4-netizen/interview-copilot)** — AI-powered interview assistant with real-time suggestions and a local FastAPI proxy. Built to run privately during live interviews.
+- **[mayfield-stars](https://github.com/jamiecooper4-netizen/mayfield-stars)** — Interactive browser-based learning app for early years education. Covers phonics (Little Wandle), numbers, shapes, and basic computer skills with voice feedback and sound effects.
+
+## 💼 Background
+
+| Company | Role |
+|---|---|
+| Arm | Strategy & GTM Manager |
+| Siemens | Brand Director |
+| Stanley Black & Decker / DEWALT | Brand Marketing Manager, EMEA |
+| The Body Shop | Head of Marketing |
+| Estée Lauder | Marketing & Events Manager |
+
+## 🔧 Tech I use
+
+`Python` `FastAPI` `JavaScript` `HTML/CSS` `Claude API` `Markdown`
+
+## 📫 Connect
+
+I'm active on [LinkedIn](https://linkedin.com) — feel free to reach out.
