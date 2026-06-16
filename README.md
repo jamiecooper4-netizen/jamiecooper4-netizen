@@ -4,7 +4,6 @@ I'm a GTM & Strategy professional with 10+ years building brands and go-to-marke
 
 ## 🛠️ What I'm building
 
-- **[interview-copilot](https://github.com/jamiecooper4-netizen/interview-copilot)** — AI-powered interview assistant with real-time suggestions and a local FastAPI proxy. Built to run privately during live interviews.
 - **[mayfield-stars](https://github.com/jamiecooper4-netizen/mayfield-stars)** — Interactive browser-based learning app for early years education. Covers phonics (Little Wandle), numbers, shapes, and basic computer skills with voice feedback and sound effects.
 
 ## 💼 Background
